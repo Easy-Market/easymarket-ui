@@ -1,0 +1,12 @@
+.Card {
+    border-style: none
+}
+.CardImage {
+    padding-top: 30px;
+    width: 200px;
+    height: 200px;
+}
+
+.Jumbotron {
+    background-color: white;
+}
