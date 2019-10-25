@@ -1,6 +1,6 @@
 import React from 'react';
 import {Jumbotron, Container, Card, CardDeck} from 'react-bootstrap';
-import image1 from '../img/cloud.svg';
+import image1 from '../img/cloud.png';
 import image2 from '../img/network.svg';
 import image3 from '../img/trolley.svg';
 import '../styles/Section1.css';
