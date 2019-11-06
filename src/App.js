@@ -2,13 +2,17 @@ import React from 'react';
 //import logo from './logo.svg';
 import './App.css';
 import Hero from './components/Hero';
-import Section1 from './components/Section1';
+import HowItWorks from './components/HowItWorks';
+import Subscribe from './components/Subscribe';
+import OurPromise from './components/OurPromise';
 
 function App() {
   return (
     <div className="App">
       <Hero />
-      <Section1 />
+      <HowItWorks />
+      <OurPromise />
+      <Subscribe/>
       {/* <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>

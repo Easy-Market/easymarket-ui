@@ -1,6 +1,6 @@
 import React from 'react';
 import {Jumbotron, Container, Card, CardDeck} from 'react-bootstrap';
-import image1 from '../img/cloud.png';
+import image1 from '../img/cloud.svg';
 import image2 from '../img/network.svg';
 import image3 from '../img/trolley.svg';
 import '../styles/Section1.css';
@@ -13,7 +13,7 @@ const mainText = {
     color: "#263238"
 }
 
-function Section1() {
+function HowItWorks() {
     return (
         <div>
             <Jumbotron fluid style = {jumbotron}>
@@ -40,7 +40,7 @@ function Section1() {
                         <Card.Body>
                         <Card.Title>Share</Card.Title>
                         <Card.Text>
-                        Share your link on your social media channels and start selling.
+                            Share your link on your social media channels and start selling.
                                     We will advertise for you too.{' '}
                         </Card.Text>
                         </Card.Body>
@@ -53,7 +53,6 @@ function Section1() {
                         <Card.Body>
                         <Card.Title>Delivery</Card.Title>
                         <Card.Text>
-                            
                                     We handle the delivery, collect money on your behalf, and give you your money.
                                     No hassles. No Stories.
                         </Card.Text>
@@ -69,4 +68,4 @@ function Section1() {
     )
 }
 
-export default Section1
+export default HowItWorks
