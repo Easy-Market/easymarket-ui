@@ -28,9 +28,11 @@ const midiSpace = {
 }
 
 const iconDimension = {
-    width: "70px",
-    height: "70px",
-    margin: "10px"
+    width: "50px",
+    height: "50px",
+    marginLeft: "10px",
+    marginRight: "10px"
+
 }
 
 // const hoverButton = styled.button`
