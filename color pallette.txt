@@ -1,0 +1,2 @@
+Pink 1: #E60D98
+Pink 2: #A7267E (Darker Shadows)

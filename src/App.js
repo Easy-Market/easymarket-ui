@@ -5,11 +5,13 @@ import Hero from './components/Hero';
 import HowItWorks from './components/HowItWorks';
 import Subscribe from './components/Subscribe';
 import OurPromise from './components/OurPromise';
+import DownloadApp from './components/DownloadApp';
 
 function App() {
   return (
     <div className="App">
       <Hero />
+      <DownloadApp />
       <HowItWorks />
       <OurPromise />
       <Subscribe/>

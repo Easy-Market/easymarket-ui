@@ -1,5 +1,5 @@
 .Card {
-    border-style: none
+    border-style: none !important;
 }
 .CardImage {
     padding-top: 30px;
