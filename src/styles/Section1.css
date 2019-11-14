@@ -1,5 +1,6 @@
 .Card {
     border-style: none !important;
+    background-color:rgba(158, 158, 158, 0.1) !important;
 }
 .CardImage {
     padding-top: 30px;

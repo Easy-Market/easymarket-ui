@@ -6,6 +6,7 @@ import HowItWorks from './components/HowItWorks';
 import Subscribe from './components/Subscribe';
 import OurPromise from './components/OurPromise';
 import DownloadApp from './components/DownloadApp';
+import Footer from './components/Footer';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <HowItWorks />
       <OurPromise />
       <Subscribe/>
+      <Footer />
       {/* <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>

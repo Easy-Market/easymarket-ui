@@ -1,9 +1,7 @@
 import React, {Component} from 'react';
 import {Container, Row, Col, Button, ButtonToolbar} from 'react-bootstrap';
-import styled from 'styled-components';
-import image1 from '../img/mobileapp.svg';
+import image1 from '../img/google-play-badge.png';
 import image2 from '../img/mobileapp2.svg';
-import image3 from '../img/playstore.svg';
 import '../styles/DownloadApp.css'
 
 const imageDimension = {
@@ -28,10 +26,11 @@ const midiSpace = {
 }
 
 const iconDimension = {
-    width: "50px",
-    height: "50px",
+    width: "210px",
+    height: "70px",
     marginLeft: "10px",
-    marginRight: "10px"
+    marginRight: "10px",
+    marginTop: "0px"
 
 }
 
@@ -52,7 +51,7 @@ class DownloadApp extends Component {
                 <Container>
                     <Row>
                         <Col xs={12} md={12} lg={7}>
-                            <img style={imageDimension} src={ image2 } fluid/>
+                            <img style={imageDimension} src={ image2 } fluid alt="Download app banner"/>
                         </Col>
                         <Col xs={12} md={12} lg={5}>
                             <h4 style={subText}><strong>DOWNLOAD</strong></h4>
@@ -64,8 +63,8 @@ class DownloadApp extends Component {
                                             {/* <Button style={{height: "100px", width: "60px", marginLeft: "30px"}} >Apple</Button> */}
                                             
                                                 <Button className="hoverButton" block>
-                                                        <img src={image3}  style={iconDimension}/>
-                                                        Get it on <strong>Google PlayStore</strong>
+                                                        <img src={image1}  style={iconDimension} alt="google play badge"/>
+                                                        {/* Get it on <strong>Google PlayStore</strong> */}
                                                 </Button> 
                                         </ButtonToolbar>
                                 </Col>

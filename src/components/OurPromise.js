@@ -47,7 +47,7 @@ const midiSpace = {
 function OurPromise() {
     return (
         <div>
-        <div style={midiSpace}></div>
+        {/* <div style={midiSpace}></div> */}
             <Jumbotron fluid style = {jumbotron}>
                 <Container >
                     <h1 style={headerText}>Our Promise</h1>
@@ -56,7 +56,7 @@ function OurPromise() {
             <Container>
                 <Row>
                     <Col xs={12} md={12} lg={4}>
-                        <img style={imageDimension} src={ image5 } fluid/>
+                        <img style={imageDimension} src={ image5 } fluid alt="Zero Effort Banner"/>
                     </Col>
                     <Col xs={12} md={12} lg={8}>
                         <h2 style={mainText}>Zero Effort</h2>
@@ -66,7 +66,7 @@ function OurPromise() {
                 <div style={midiSpace}></div>
                 <Row>
                     <Col xs={12} md={12} lg={{span: 4, order: 12}}>
-                        <img style={imageDimension} src={ image4 } />
+                        <img style={imageDimension} src={ image4 } alt="Eliminate Trust Banner"/>
                     </Col>
                     <Col xs={12} md={12} lg={{span: 8, order: 1}}>
                         <h2 style={mainText}>Eliminate Trust Issues</h2>
@@ -76,7 +76,7 @@ function OurPromise() {
                 <div style={midiSpace}></div>
                 <Row>
                     <Col xs={12} md={12} lg={4}>
-                        <img style={imageDimension} src={ image2 } />
+                        <img style={imageDimension} src={ image2 } alt="Safe and Secure Banner"/>
                     </Col>
                     <Col xs={12} md={12} lg={8}>
                         <h2 style={mainText}>Safe and Secure</h2>
@@ -86,7 +86,7 @@ function OurPromise() {
                 <div style={midiSpace}></div>
                 <Row>
                     <Col xs={12} md={12} lg={{span: 4, order: 12}}>
-                        <img style={imageDimension} src={ image10 } />
+                        <img style={imageDimension} src={ image10 } alt="Always Available Banner"/>
                     </Col>
                     <Col xs={12} md={12} lg={{span: 8, order: 1}}>
                         <h2 style={mainText}>Always Available</h2>
@@ -96,7 +96,7 @@ function OurPromise() {
                 <div style={midiSpace}></div>
                 <Row>
                     <Col xs={12} md={12} lg={4}>
-                        <img style={imageDimension} src={ image3 } />
+                        <img style={imageDimension} src={ image3 } alt="Transparent Banner"/>
                     </Col>
                     <Col xs={12} md={12} lg={8}>
                         <h2 style={mainText}>Fully Transparent</h2>
