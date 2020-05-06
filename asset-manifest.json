@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/easymarket-ui/static/css/main.69d5006d.chunk.css",
+    "main.js": "/easymarket-ui/static/js/main.afeb3cf0.chunk.js",
+    "main.js.map": "/easymarket-ui/static/js/main.afeb3cf0.chunk.js.map",
+    "runtime-main.js": "/easymarket-ui/static/js/runtime-main.c2c66111.js",
+    "runtime-main.js.map": "/easymarket-ui/static/js/runtime-main.c2c66111.js.map",
+    "static/css/2.0624914a.chunk.css": "/easymarket-ui/static/css/2.0624914a.chunk.css",
+    "static/js/2.78b05c08.chunk.js": "/easymarket-ui/static/js/2.78b05c08.chunk.js",
+    "static/js/2.78b05c08.chunk.js.map": "/easymarket-ui/static/js/2.78b05c08.chunk.js.map",
+    "index.html": "/easymarket-ui/index.html",
+    "precache-manifest.0a38cc83e6514ba450ad74668c68124c.js": "/easymarket-ui/precache-manifest.0a38cc83e6514ba450ad74668c68124c.js",
+    "service-worker.js": "/easymarket-ui/service-worker.js",
+    "static/css/2.0624914a.chunk.css.map": "/easymarket-ui/static/css/2.0624914a.chunk.css.map",
+    "static/css/main.69d5006d.chunk.css.map": "/easymarket-ui/static/css/main.69d5006d.chunk.css.map",
+    "static/media/Hero.css": "/easymarket-ui/static/media/bg1.af546ce5.jpg",
+    "static/media/cloud.svg": "/easymarket-ui/static/media/cloud.67a48214.svg",
+    "static/media/docs.svg": "/easymarket-ui/static/media/docs.48a85121.svg",
+    "static/media/google-play-badge.png": "/easymarket-ui/static/media/google-play-badge.db9b21a1.png",
+    "static/media/hacker.svg": "/easymarket-ui/static/media/hacker.2ef19393.svg",
+    "static/media/joy.svg": "/easymarket-ui/static/media/joy.a393b9c6.svg",
+    "static/media/logo.svg": "/easymarket-ui/static/media/logo.25bf045c.svg",
+    "static/media/mobileapp.svg": "/easymarket-ui/static/media/mobileapp.5ff75495.svg",
+    "static/media/mobileapp2.svg": "/easymarket-ui/static/media/mobileapp2.b721090e.svg",
+    "static/media/network.svg": "/easymarket-ui/static/media/network.287c074f.svg",
+    "static/media/process.svg": "/easymarket-ui/static/media/process.9bc80131.svg",
+    "static/media/security1.svg": "/easymarket-ui/static/media/security1.b74a8761.svg",
+    "static/media/security2.svg": "/easymarket-ui/static/media/security2.7e710597.svg",
+    "static/media/solution.svg": "/easymarket-ui/static/media/solution.29ef607b.svg",
+    "static/media/trolley.svg": "/easymarket-ui/static/media/trolley.20837a54.svg"
+  }
+}
